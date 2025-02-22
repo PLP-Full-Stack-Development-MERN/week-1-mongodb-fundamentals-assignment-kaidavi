@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "67b957d3c7e5a714571de95c"
+  },
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "publishedYear": 1950,
+  "genre": "Fantasy",
+  "ISBN": "9780547928227",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67b957d3c7e5a714571de95d"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "publishedYear": 2003,
+  "genre": "Romance",
+  "ISBN": "9781503290563",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67b96a0116f6eb8d6da18099"
+  },
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "publishedYear": 1960,
+  "genre": "Fiction",
+  "ISBN": "9780061120084",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67b96a0116f6eb8d6da1809a"
+  },
+  "title": "1984",
+  "author": "George Orwell",
+  "publishedYear": 1949,
+  "genre": "Dystopian",
+  "ISBN": "9780451524935",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67b96a0116f6eb8d6da1809b"
+  },
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "publishedYear": 1925,
+  "genre": "Classic",
+  "ISBN": "9780743273565",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67b96a0116f6eb8d6da1809c"
+  },
+  "title": "Moby-Dick",
+  "author": "Herman Melville",
+  "publishedYear": 1851,
+  "genre": "Adventure",
+  "ISBN": "9781503280786",
+  "rating": 4.5
+},
+{
+  "_id": {
+    "$oid": "67b96a0116f6eb8d6da1809d"
+  },
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "publishedYear": 1813,
+  "genre": "Romance",
+  "ISBN": "9781503290563",
+  "rating": 4.5
+}]
